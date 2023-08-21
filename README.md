@@ -1,3 +1,5 @@
+![image](https://github.com/csl2003/ToDo-List/assets/140396011/b6457f6e-cc20-48be-aa51-31fa437140fa)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
